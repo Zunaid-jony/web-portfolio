@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+
+    font-family: 'Poppins',sans-serif ;
+}
+h1{
+    font-size: 50px;
+}
+.one{
+    color: orange;
+}
+.pre{
+    width: 40%;
+    float: left;
+    height: 10px;
+    margin-left: 7%;
+    padding-left: 1%;
+    
+}
+.pre img{
+    width: 100%;
+}
+.top{
+    
+    background-image: url("imgs/top.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
