@@ -17,6 +17,15 @@ h1{
     padding-left: 1%;
     
 }
+.boton{
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 5px;
+   text-decoration: none;
+   padding: 10px 42px;
+   color: white;
+   font-weight:800;
+
+}
 .pre img{
     width: 100%;
 }
@@ -27,4 +36,76 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
+}
+
+
+.boto{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    font-weight: 800;
+    padding: 8px 32px;
+    
+}
+h2{
+    font-size: 40pxs;
+}
+p{
+    color: dimgray;
+}
+.top2{
+    background-image: url("imgs/bc.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.lo{
+    color:orange;
+}
+.thre{
+    background-color:  #f2f2f2;
+    background-image: url("imgs/jony.png");
+    background-repeat: no-repeat;
+    
+    
+    background-position-y: 150px;
+    
+    
+}
+.last{
+    width: 40%;
+    float: left;
+    height: 10px;
+    margin-left: 7%;
+    padding-left: 1%;
+    
+   background-color: mediumblue;
+   
+   
+    
+    
+}
+.las{
+    width: 40%;
+    float: left;
+    height: 10px;
+    margin-left: 7%;
+    padding-left: 1%;
+    background-color: rgb(204, 0, 255);
+  
+}
+.fa{
+    width: 500px;
+    float: left;
+    height: 5px;
+    margin-left: 25%;
+    padding-left: 5%;
+    background-color: lawngreen;
+    
+}
+.n{
+    background-color: rgb(199, 202, 196);
+    text-align: center;
+    height: 60px;
+    font-weight: 800;
+    border: 25px;
 }
