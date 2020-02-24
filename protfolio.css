@@ -61,37 +61,36 @@ p{
 .lo{
     color:orange;
 }
-.thre{
-    background-color:  #f2f2f2;
+
+
+.experience-area{
     background-image: url("imgs/jony.png");
     background-repeat: no-repeat;
-    
-    
-    background-position-y: 150px;
-    
+    background-position: left;
+    background-position-y: 100px;
+}
+.experience-area h3{
+    color: orange;
+}
+
+.experience-area div{
+    box-shadow: 5px 7px 40px gray;
+    height: 80%;
     
 }
-.last{
-    width: 40%;
-    float: left;
-    height: 10px;
-    margin-left: 7%;
-    padding-left: 1%;
-    
-   background-color: mediumblue;
-   
-   
-    
-    
+
+
+
+
+#idd{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
 }
-.las{
-    width: 40%;
-    float: left;
-    height: 10px;
-    margin-left: 7%;
-    padding-left: 1%;
-    background-color: rgb(204, 0, 255);
-  
+#id{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
 }
 .fa{
     width: 500px;
